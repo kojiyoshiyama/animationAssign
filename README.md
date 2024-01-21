@@ -1,1 +1,1 @@
-# Revenge_of_Slime
+# Animation Solo Assignment
